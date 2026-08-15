@@ -20,4 +20,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
