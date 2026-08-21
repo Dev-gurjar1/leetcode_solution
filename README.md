@@ -8,6 +8,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0525-contiguous-array](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -15,6 +16,7 @@
 | [0001-two-sum](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/0001-two-sum/) | Easy |
 | [0525-contiguous-array](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -41,4 +43,8 @@
 | ------- | ------- |
 | [0525-contiguous-array](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 <!---LeetCode Topics End-->
