@@ -51,11 +51,13 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/0733-flood-fill/) | Easy |
 | [0841-keys-and-rooms](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/0841-keys-and-rooms/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/0733-flood-fill/) | Easy |
 | [0841-keys-and-rooms](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/0841-keys-and-rooms/) | Medium |
 ## Matrix
@@ -65,5 +67,10 @@
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/0841-keys-and-rooms/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/0547-number-of-provinces/) | Medium |
 <!---LeetCode Topics End-->
