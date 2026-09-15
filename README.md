@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/0001-two-sum/) | Easy |
+| [0200-number-of-islands](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/0200-number-of-islands/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0525-contiguous-array](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -51,18 +52,21 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/0733-flood-fill/) | Easy |
 | [0841-keys-and-rooms](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/0841-keys-and-rooms/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/0733-flood-fill/) | Easy |
 | [0841-keys-and-rooms](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/0841-keys-and-rooms/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/0733-flood-fill/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -72,5 +76,6 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/0547-number-of-provinces/) | Medium |
 <!---LeetCode Topics End-->
