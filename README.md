@@ -10,6 +10,7 @@
 | [0525-contiguous-array](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0733-flood-fill](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/0733-flood-fill/) | Easy |
+| [1584-min-cost-to-connect-all-points](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Hash Table
@@ -73,9 +74,27 @@
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/0841-keys-and-rooms/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/0547-number-of-provinces/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Minimum Spanning Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Prim's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Kruskal's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Borůvka's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Dev-gurjar1/leetcode_solution/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 <!---LeetCode Topics End-->
